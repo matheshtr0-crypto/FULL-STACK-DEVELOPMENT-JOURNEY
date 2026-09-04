@@ -1,0 +1,97 @@
+# JavaScript Learning
+
+This repository contains my JavaScript learning and practice work.
+
+## Topics Covered
+
+### 1. JavaScript Basics
+- console.log()
+- JavaScript syntax
+- Data Types
+- String
+- Number
+- Boolean
+
+### 2. Variables
+- let
+- const
+- var
+
+### 3. Operators
+- Arithmetic Operators
+- Comparison Operators
+- Logical Operators
+- Assignment Operators
+
+### 4. DOM Manipulation
+- document.querySelector()
+- innerHTML
+- textContent
+- style
+- Storing DOM elements in variables
+
+### 5. Creating HTML Elements
+- document.createElement()
+- append()
+- className
+- setAttribute()
+
+### 6. Dynamic Image Creation
+- Creating img elements
+- Setting src
+- Setting alt
+- Appending images to the DOM
+
+### 7. Dynamic Button Creation
+- Creating buttons using JavaScript
+- innerHTML
+
+### 8. Conditional Statements
+- if
+- else
+- if/else with DOM
+
+### 9. Switch Case
+- case
+- break
+- default
+
+### 10. Loops
+- for loop
+- while loop
+- break
+- continue
+
+### 11. Arrays
+- Creating arrays
+- Array indexing
+- Updating array values
+- Array length
+- Looping through arrays
+
+### 12. Objects
+- Creating objects
+- Object properties
+- Accessing object values
+- Updating object values
+- Objects with arrays
+
+### 13. Functions
+- Function declaration
+- Function calling
+- Parameters
+- Arguments
+- Return value
+
+### 14. Anonymous Functions
+- Anonymous function
+- Assigning functions to variables
+
+### 15. DOM Event Interaction
+- Reading input values
+- Button click event
+- Updating DOM content
+
+## Purpose
+
+This repository represents my JavaScript learning journey and hands-on practice with core JavaScript concepts and DOM manipulation.
