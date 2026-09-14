@@ -1,1 +1,1 @@
-A Full-Stack Development Learning Journey Covering HTML, CSS, JavaScript, React, Node.js, Express.js, Backend, and SQL.
+A Full-Stack Development Learning Journey Covering HTML, CSS, JavaScript, Frontend, React, Node.js, Backend, Express.js, and MySQL.
